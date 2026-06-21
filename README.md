@@ -36,8 +36,8 @@ Atlas One 更关注「执行是否安全、权限是否清楚、过程是否可�
 它不是再做一个聊天窗口，也不是把 CLI 搬到 Web 页面里，更不是让每个用户在自己的本机上各自运行一套 Agent。
 
 Atlas One 的核心，是把 Agent 能力组织成可管理、可控、可信的「数字员工」，并通过企业级平台统一提供访问、权限、审计、调度和治理。
-<img width="3600" height="2016" alt="image" src="https://github.com/user-attachments/assets/839dd2fd-8610-40ed-b9a1-afa1469f1fb3" />
-<img width="3600" height="2016" alt="image" src="https://github.com/user-attachments/assets/0fbbecc4-c596-4c32-8b46-d9293d2fa468" />
+<img style="max-width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/839dd2fd-8610-40ed-b9a1-afa1469f1fb3" />
+<img style="max-width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/0fbbecc4-c596-4c32-8b46-d9293d2fa468" />
 
 
 ## 核心理念
@@ -47,7 +47,7 @@ Atlas One 围绕三个关键词设计：
 - **编排**：把复杂任务拆解给合适的数字员工，让能力、上下文和任务路径有序流转。
 - **协作**：让不同岗位的数字员工围绕同一业务目标接力工作，而不是各自孤立回答。
 - **交付**：以最终业务结果为导向，关注任务是否完成、产物是否清楚、过程是否可追踪。
-  <img width="3600" height="2016" alt="image" src="https://github.com/user-attachments/assets/2b70f9d3-9aa0-4e96-b306-dba5562d2a63" />
+  <img style="max-width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/2b70f9d3-9aa0-4e96-b306-dba5562d2a63" />
 
 
 对 OPC 和初创团队来说，Atlas One 希望承担的是一套轻量但可靠的数智团队管理入口：不用从零搭建模型、权限和运行环境，就能让数字员工围绕真实业务目标开展工作。
